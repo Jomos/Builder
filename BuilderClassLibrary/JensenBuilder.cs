@@ -19,7 +19,7 @@ namespace BuilderClassLibrary
 
         public override void InviteStudents()
         {
-            Education.Student = "Nackadem Student Invited";
+            Education.Student = "Jensen Student Invited";
         }
 
         public override void ProcessStudentFeedback()
